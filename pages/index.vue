@@ -6,7 +6,7 @@
         net-nuxt
       </h1>
       <h2 class="subtitle">
-        My superior Nuxt.js project
+        My sorta good Nuxt.js project
       </h2>
       <div class="links">
         <a
